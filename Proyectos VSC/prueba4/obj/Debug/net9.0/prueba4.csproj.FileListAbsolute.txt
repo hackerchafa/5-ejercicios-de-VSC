@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\bin\Debug\net9.0\prueba4.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\bin\Debug\net9.0\prueba4.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\bin\Debug\net9.0\prueba4.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\bin\Debug\net9.0\prueba4.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\bin\Debug\net9.0\prueba4.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\prueba4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\prueba4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\prueba4.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\prueba4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\prueba4.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\refint\prueba4.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\prueba4.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\prueba4.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\prueba4\obj\Debug\net9.0\ref\prueba4.dll
